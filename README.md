@@ -1,6 +1,10 @@
 ![rev5 Technologies](/logo-full-color-dk.png "rev5 Technologies")
 
-## Hi there 👋
+In 2002, rev5 Technologies was founded and began developing software for enterprises and governmental organizations as a consulting company. Backed by years of experience in building complex web-based applications, rev5 Technologies shifted his focus to producing code using a semi-automated code generation system.
+
+By using code generation tools to automate the coding process, our code does exactly what our clients need in a fraction of the time a human developer would spend writing it. Our code is efficient and accurate because this process largely eliminates the potential for human error. Since our code is generated from fine-tuned templates, it is impervious to the inconsistencies of Artificial Intelligence-based coding services.
+
+At rev5 Technologies, innovation, quality, and ambition motivate us to evolve alongside the software industry at large. We are committed to keeping up with new developments in software and combining state-of-the-art technologies with our process to augment the value of what we do. We look through the aperture of new technologies to identify opportunities for improvement.
 
 <!--
 **rev5tech/rev5tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
