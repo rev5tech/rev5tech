@@ -1,3 +1,5 @@
+![rev5 Technologies](/logo-full-color-dk.png "rev5 Technologies")
+
 ## Hi there 👋
 
 <!--
